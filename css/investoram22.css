@@ -1,0 +1,134 @@
+#myVideo{	
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  height:100%;
+  object-fit:cover;
+  pointer-events:none;
+}
+   *{
+        padding:0;
+        margin:0;
+		
+        }	
+.mainblock1{
+ position: relative;
+ width: 100%;
+ min-height: 100vh;
+  display: flex;
+  overflow:hidden;
+}
+#logos{
+width:200px;
+height:110px;			
+position:absolute;
+top:-10px;
+left:50px;		
+}
+
+
+#blackblock0invest22{
+width:100%;
+height:956px;			
+position:absolute;	
+background-color:#000000;	
+top:0px;
+left:0px;			
+opacity: 0.5;		
+}
+#qwe{
+color :#86F860;
+	
+}
+#blackblockinfoinvest{	
+width:473px;
+height:640px;			
+position:absolute;
+top:260px;
+left:192px;	
+background: rgba(255, 255, 255, 0.1);
+
+}
+
+#blackblockinfoinvest2{	
+width:473px;
+height:640px;			
+position:absolute;
+top:260px;
+left:678px;	
+background: rgba(255, 255, 255, 0.1);
+
+}
+
+#blackblockinfoinvest3{	
+width:473px;
+height:640px;			
+position:absolute;
+top:260px;
+left:1163px;	
+background: rgba(255, 255, 255, 0.1);
+	
+}
+#blackblockinfoinvestred{
+width:473px;
+height:100px;			
+position:absolute;
+top:150px;
+left:192px;		
+background-color:rgba(255, 255, 255, 0.1);
+		
+}
+#blackblockinfoinvestred2{
+width:473px;
+height:100px;			
+position:absolute;
+top:150px;
+left:678px;	
+background-color:rgba(255, 255, 255, 0.1);		
+	
+}
+#blackblockinfoinvestred3{
+width:473px;
+height:100px;			
+position:absolute;
+top:150px;
+left:1163px;	
+background-color:rgba(255, 255, 255, 0.1);	
+
+}
+
+
+.meinzayavka{
+width:140px;
+height:65px;			
+position:absolute;
+top:12px;
+left:1500px;		
+cursor:pointer;
+background-color:rgba(255, 99, 71, 0.4);	
+ border-radius:20px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;	 
+}
+.meinzayavka:hover{
+width:140px;
+height:65px;			
+position:absolute;
+top:12px;
+left:1500px;		
+cursor:pointer;
+background-color:rgba(255, 99, 71, 0.8);	
+ border-radius:20px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;	 
+}
+.meinzayavka p{
+color:#ffffff;
+text-align:center;
+font-size:22px;
+font-family:bold;
+margin-top:18px;
+}

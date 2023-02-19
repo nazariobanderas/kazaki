@@ -1,0 +1,110 @@
+.mainnavigationleft{
+height:100px;
+width: 600px;
+position:absolute;
+top:3px;	
+left:653px;
+overflow:auto;
+  -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+
+
+}
+.mainnavigationleft:hover{
+height:100px;
+width: 600px;
+position:absolute;
+top:3px;	
+left:653px;
+overflow:auto;
+}
+
+/* width */
+.mainnavigationleft::-webkit-scrollbar {
+  width: 1.5px;
+ margin-left:30px; 
+
+}
+/* Track */
+.mainnavigationleft::-webkit-scrollbar-track {
+   background: #B1B1B1;    
+}
+/* Handle */
+.mainnavigationleft::-webkit-scrollbar-thumb {
+  background: #000000; 
+  opacity:0.4; 
+}
+/* Handle on hover */
+.mainnavigationleft::-webkit-scrollbar-thumb:hover {
+  background: #F51E0E; 
+  
+}
+#blockprofesiya{
+height:60px;
+width: 103px;	
+margin-left:0px;
+cursor:pointer;
+float:left;
+margin-top:30px;
+ 
+}
+.blockprofesiyatrikytnik{
+height:40px;
+width: 50px;
+float:right;
+display:none;
+cursor:pointer;	
+
+
+}
+#blockprofesiya:hover{
+height:60px;
+width: 103px;	
+margin-left:0px;
+margin-top:30px;
+	
+}
+
+
+#blockprofesiya:hover .blockprofesiyatrikytnik {
+display:block;
+}
+.strelki{
+height:20px;
+width: 12px;
+margin-top:8px;
+margin-left:15px;
+			
+}
+
+
+
+
+
+#blockprofesiya p{
+color: #B1B1B1;		
+font-size:22px;	
+
+margin-left:30px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+float:left;
+
+
+}
+#blockprofesiya:hover p{
+color: #ffffff;	
+font-size:22px;	
+margin-left:30px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+float:left;
+ -webkit-transform: scale(1.2);
+ -moz-transform: scale(1.2);
+ -o-transform: scale(1.2);
+}
+
+

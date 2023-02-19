@@ -1,0 +1,149 @@
+.mainnavigationleft{
+height:800px;
+width: 280px;
+position:absolute;
+top:100px;	
+left:38px;
+overflow:auto;
+  -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+
+}
+.mainnavigationleft:hover{
+height:800px;
+width: 280px;
+position:absolute;
+top:100px;	
+left:38px;
+overflow:auto;
+}
+
+/* width */
+.mainnavigationleft::-webkit-scrollbar {
+  width: 1.5px;
+ margin-left:30px; 
+
+}
+/* Track */
+.mainnavigationleft::-webkit-scrollbar-track {
+   background: #dddddd;    
+}
+/* Handle */
+.mainnavigationleft::-webkit-scrollbar-thumb {
+  background: #000000; 
+  
+}
+/* Handle on hover */
+.mainnavigationleft::-webkit-scrollbar-thumb:hover {
+  background: #F51E0E; 
+  
+}
+.leftfotonav{
+height:200px;
+width: 200px;
+border-radius:40px;	
+ -moz-transition: all 0.3s ease-out;
+ -o-transition: all 0.3s ease-out;
+ -webkit-transition: all 0.3s ease-out;	
+margin-left:20px; 
+}
+
+.leftfotonav:hover{
+height:200px;
+width: 200px;
+border-radius:40px;
+margin-left:0px;			
+}
+
+#blockprofesiya0{
+height:200px;
+width: 200px;	
+margin-left:0px;
+cursor:pointer;
+ margin-top:0px;
+
+}
+#blockprofesiya0:hover{
+height:200px;
+width: 263px;	
+margin-left:0px;
+cursor:pointer;
+ 
+ margin-top:0px;
+}
+
+#blockprofesiya0:hover .blockprofesiyatrikytnik {
+display:block;
+}
+
+#blockfotonazva1{
+height:22px;
+width: 200px;	
+margin-left:20px;
+margin-top:15px;		
+}
+#blockfotonazva2{
+height:22px;
+width: 200px;	
+margin-left:20px;	
+margin-top:0px;	
+
+}
+
+
+
+
+
+.blockprofesiyatrikytnik{
+height:40px;
+width: 40px;
+float:right;
+display:none;
+cursor:pointer;
+background:block;	
+margin-top:75px;
+
+
+}
+
+#blockprofesiya{
+height:200px;
+width: 200px;	
+margin-left:0px;
+cursor:pointer;
+ margin-top:80px;
+}
+
+#blockprofesiya:hover{
+height:200px;
+width: 263px;	
+margin-left:0px;
+cursor:pointer;	
+}
+
+#blockprofesiya:hover .blockprofesiyatrikytnik {
+display:block;
+}
+
+.strelki{
+height:30px;
+width: 15px;
+margin-top:8px;
+margin-left:15px;
+			
+}
+
+
+#fraza1_10{
+color: #000000;		
+font-size:13px;	
+font-family: "verdana";
+margin-top:0px;
+margin-left:0px;
+cursor:pointer;	
+text-align:center;
+
+}
+
+

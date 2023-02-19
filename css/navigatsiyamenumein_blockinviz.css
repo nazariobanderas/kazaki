@@ -1,0 +1,177 @@
+/* width */
+.parent::-webkit-scrollbar {
+  display:none;
+ margin-left:30px; 
+
+}
+/* Track */
+.parent::-webkit-scrollbar-track {
+   background: #F51E0E; 
+   
+}
+/* Handle */
+.parent::-webkit-scrollbar-thumb {
+   
+  display:none;
+}
+/* Handle on hover */
+.parent::-webkit-scrollbar-thumb:hover {
+  background: #F51E0E; 
+} 
+
+
+ .parent {
+width:1030px;
+height:140px;	
+position:absolute;
+top:0px;
+left:330px;
+    overflow: hidden;
+    overflow-x: scroll;
+    white-space:nowrap;
+padding-left:20px;
+}
+
+.child {
+    display: inline-block;
+    vertical-align: top;
+    width: 75px;
+    height:80px;
+ 
+ 
+}
+.fotoimgnavigarion{
+width:45px;
+height:45px;
+cursor:pointer;
+border-radius:15px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;			
+}
+.fotoimgnavigarion:hover{
+width:65px;
+height:65px;
+cursor:pointer;
+border-radius:15px;
+-webkit-transform: scale(1.1);
+ -moz-transform: scale(1.1);
+ -o-transform: scale(1.1);			
+}
+
+#joltatochka{
+width:5px;
+height:5px;	
+ background: yellow;	
+ margin-left:36px;
+ border-radius:30px;
+ margin-top:3px;
+}
+#joltatochkapozzoro{
+width:5px;
+height:5px;	
+ background: #ffffff;	
+ margin-left:36px;
+ border-radius:30px;
+ margin-top:3px;	
+opacity:0.001;	
+	
+}
+.child2hidden{
+width:100px;
+height:40px;	
+position:absolute;
+margin-top:0px;
+background:#ffffff;	
+display:none;	
+}
+
+.child:hover .child2hidden {
+display:block;
+}
+#triugolnichek{
+width:30px;
+height:20px;		
+}
+
+
+
+#menuvnavigati{
+	margin-left:5px;
+	margin-top:5px;
+width:65px;
+height:65px;
+cursor:pointer;
+border-radius:15px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+
+ 
+}
+#menuvnavigati:hover{
+width:65px;
+height:65px;
+cursor:pointer;
+border-radius:15px;
+-webkit-transform: scale(1.1);
+ -moz-transform: scale(1.1);
+ -o-transform: scale(1.1);
+  
+}
+
+.detalnoo1{
+width:60px;
+height:15px;				
+		
+margin-top:0px;
+display:none;
+padding:0px;		
+}
+
+#meine_block:hover .detalnoo1 {
+display:block;
+}
+
+.detalnoo2{
+width:100px;
+height:30px;				
+background:rgba(255, 255,255, 0.7);		
+margin-top:0px;
+display:none;
+border-radius:10px;
+margin-left:-13px; 		
+}
+
+.detalnoo2 p{
+text-align:center;
+font-size:18px;
+color:#000000; 
+font-style: oblique;
+text-decoration: none;
+padding-top:4px;		
+}
+.parent a{
+
+text-decoration: none;		
+}
+#meine_block:hover .detalnoo2 {
+display:block;
+}
+#meine_block{
+width:65px;
+height:65px;					
+background:rgba(0, 0, 0, 0.01);
+cursor:pointer;
+border-radius:20px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;	
+}	
+#trikytnik{
+width:37px;
+height:22px;
+ opacity: 0.7;
+ margin-top:0px;
+  margin-left:18px;
+}

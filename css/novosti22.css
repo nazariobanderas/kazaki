@@ -1,0 +1,177 @@
+#myVideo{	
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  height:100%;
+  object-fit:cover;
+  pointer-events:none;
+}
+   *{
+        padding:0;
+        margin:0;
+		
+        }	
+.mainblock1{
+ position: relative;
+ width: 100%;
+ min-height: 100vh;
+  display: flex;
+  overflow:hidden;
+}
+#logos{
+width:200px;
+height:110px;			
+position:absolute;
+top:-10px;
+left:50px;		
+}
+
+
+#fraza11{
+position:absolute;
+	top:590px;
+	left:58px;	
+	font-size:32px;
+	color:#fff;
+	text-decoration: none;
+font-family: "verdana";
+opacity:0.6;
+}
+#fraza22{
+position:absolute;
+	top:630px;
+	left:58px;	
+	font-size:90px;
+	color:#fff;
+	text-decoration: none;
+font-family: "verdana";
+opacity:0.6;
+}
+#fraza3{
+position:absolute;
+	top:759px;
+    left:64px;	
+	font-size:16px;
+	color:#FEFEFE;
+	text-decoration: none;
+font-family:Courier New;
+opacity:0.6;
+}
+#fraza4{
+position:absolute;
+	top:786px;
+	left:64px;		
+	font-size:16px;
+	color:#FEFEFE;
+	text-decoration: none;
+font-family:Courier New;
+opacity:0.6;
+}
+#fraza5{
+position:absolute;
+	top:813px;
+	left:64px;	
+	font-size:16px;
+	color:#FEFEFE;
+	text-decoration: none;
+font-family:Courier New;
+opacity:0.6;
+}
+#fraza6{
+position:absolute;
+	top:840px;
+	left:64px;	
+	font-size:16px;
+	color:#FEFEFE;
+	text-decoration: none;
+font-family:Courier New;
+opacity:0.6;
+}
+#fraza7{
+position:absolute;
+	top:867px;
+	left:64px;
+	font-size:16px;
+	color:#FEFEFE;
+	text-decoration: none;
+font-family:Courier New;
+opacity:0.6;
+}
+
+#slaid1{
+width:70px;
+height:10px;		
+position:absolute;
+	top:920px;
+	left:64px;		
+background-color:yellow;
+cursor:pointer;	
+ border-radius:15px;
+ border: 0px solid transparent;
+ 
+ 
+}
+#slaid2{
+width:70px;
+height:10px;		
+position:absolute;
+	top:920px;
+	left:150px;		
+background-color:#ffffff;
+cursor:pointer;	
+ border-radius:15px;
+ border: 0px solid transparent;
+ opacity: 0.4;
+}
+#slaid3{
+width:70px;
+height:10px;		
+position:absolute;
+	top:920px;
+	left:240px;		
+background-color:#ffffff;
+cursor:pointer;	
+ border-radius:15px;
+ border: 0px solid transparent;
+ opacity: 0.4;
+}
+#kvadrat1{	
+width:45px;
+height:45px;		
+position:absolute;
+	top:22px;
+	left:1533px;
+cursor:pointer;		
+}
+#kvadrat1:hover{	
+width:45px;
+height:45px;		
+position:absolute;
+	top:22px;
+	left:1533px;
+opacity:0.99;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;	
+}
+#kvadrat2{	
+width:45px;
+height:45px;		
+position:absolute;
+	top:22px;
+	left:1595px;
+opacity:0.4;
+cursor:pointer;	
+}
+#kvadrat2:hover{	
+width:45px;
+height:45px;		
+position:absolute;
+	top:22px;
+	left:1595px;
+opacity:0.99;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;	
+}

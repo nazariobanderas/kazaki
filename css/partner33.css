@@ -1,0 +1,191 @@
+#myVideo{	
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  height:100%;
+  object-fit:cover;
+  pointer-events:none;
+}
+   *{
+        padding:0;
+        margin:0;
+		
+        }	
+.mainblock1{
+ position: relative;
+ width: 100%;
+ min-height: 100vh;
+  display: flex;
+  overflow:hidden;
+}
+#logos{
+width:200px;
+height:110px;			
+position:absolute;
+top:-10px;
+left:50px;		
+}
+
+.mainblock2{
+position: absolute;
+width: 1707px;
+min-height: 956px;
+display: flex;
+overflow:hidden;
+top:-110px;
+left:-337px;
+background:red;
+}
+.fotobeground{
+ position: absolute;
+ width: 100%;
+ min-height: 950px;
+  display: flex;
+  overflow:hidden;	
+}
+
+#blackblock1{
+width: 1707px;
+min-height: 956px;	
+position:absolute;	
+background-color:#000000;	
+top:-110px;
+left:-337px;		
+opacity: 0.4;
+-moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;					
+}
+
+
+
+/* Style the tab */
+.tab {
+  height:810px;
+width: 280px;
+position:absolute;
+top:130px;	
+left:40px;
+overflow:auto;
+  -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+}
+
+/* Style the tab content */
+.tabcontent {
+    float: left;
+    padding: 0px 12px;   
+    width: 1320px;
+    height: 820px;
+    border-left: none;
+    margin-left:0px;
+	margin-top:110px;
+	
+}
+
+
+
+/* width */
+.tab::-webkit-scrollbar {
+  width: 1.5px;
+ margin-left:30px; 
+display:none;
+}
+/* Track */
+.tab::-webkit-scrollbar-track {
+   background: #dddddd;    
+}
+/* Handle */
+.tab::-webkit-scrollbar-thumb {
+  background: #000000; 
+  
+}
+/* Handle on hover */
+.tab::-webkit-scrollbar-thumb:hover {
+  background: #F51E0E;  
+}
+
+
+
+/* Style the tab */
+.tab2 {
+  height:60px;
+width: 820px;
+position:absolute;
+top:15px;	
+left:400px;
+overflow:auto;
+  -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+ 
+	
+}
+
+/* Style the tab content */
+.tabcontent2 {
+	position:absolute;
+    float: left;
+    padding: 0px 12px;   
+    width: 1318px;
+    height: 820px;
+    border-left: none;
+    left:337px;
+	top:110px;
+	background:#F8F8F8;
+	
+}
+
+.tab2 button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 19px 46px;
+    transition: 0.3s;
+    font-size: 18px;
+	font-family:verdana;
+}
+
+
+
+/* Change background color of buttons on hover */
+.tab2 button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab2 button.active {
+    background-color: #F8F8F8;
+	
+}
+
+/* Style the tab content */
+#polosochkasira33red{
+width:279px;
+height:0.2px;		
+position:absolute;
+top:90px;
+left:58px;
+background: #dddddd;
+border-radius:30px;
+	
+}
+
+#polosochkasira33{
+width:1330px;
+height:0.2px;		
+position:absolute;
+top:90px;
+left:337px;
+background: #dddddd;
+border-radius:30px;
+opacity:0.3;	
+}
+
+
+
+

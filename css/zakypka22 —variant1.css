@@ -1,0 +1,300 @@
+#myVideo{	
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  height:100%;
+  object-fit:cover;
+  pointer-events:none;
+}
+   *{
+        padding:0;
+        margin:0;
+		
+        }	
+.mainblock1{
+ position: relative;
+ width: 100%;
+ min-height: 100vh;
+  display: flex;
+  overflow:hidden;
+}
+#logos{
+width:200px;
+height:110px;			
+position:absolute;
+top:-10px;
+left:50px;		
+}
+
+
+#blackblock0invest22{
+width:100%;
+height:956px;			
+position:absolute;	
+background-color:#000000;	
+top:0px;
+left:0px;			
+opacity: 0.4;		
+}
+
+
+
+.meinzayavka{
+width:140px;
+height:65px;			
+position:absolute;
+top:12px;
+left:1500px;		
+cursor:pointer;
+background-color:rgba(255, 99, 71, 0.4);	
+ border-radius:20px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;	 
+}
+.meinzayavka:hover{
+width:140px;
+height:65px;			
+position:absolute;
+top:12px;
+left:1500px;		
+cursor:pointer;
+background-color:rgba(255, 99, 71, 0.8);	
+ border-radius:20px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;	 
+}
+.meinzayavka p{
+color:#ffffff;
+text-align:center;
+font-size:22px;
+font-family:bold;
+margin-top:18px;
+}
+
+#obzor1{
+width:170px;
+height:50px;			
+position:absolute;	
+background-color:red;	
+top:120px;
+left:320px;			
+opacity: 0.2;		
+}
+#obzor2{
+width:170px;
+height:50px;			
+position:absolute;	
+background-color:red;	
+top:120px;
+left:510px;			
+opacity: 0.2;		
+}
+#obzor3{
+width:170px;
+height:50px;			
+position:absolute;	
+background-color:red;	
+top:120px;
+left:700px;			
+opacity: 0.2;		
+}
+#obzor4{
+width:170px;
+height:50px;			
+position:absolute;	
+background-color:red;	
+top:120px;
+left:890px;			
+opacity: 0.2;		
+}
+#obzor5{
+width:170px;
+height:50px;			
+position:absolute;	
+background-color:#dddddd;	
+top:120px;
+left:1080px;			
+opacity: 0.2;		
+}
+#obzor6{
+width:170px;
+height:50px;			
+position:absolute;	
+background-color:#ffffff;	
+top:120px;
+left:1270px;			
+opacity: 0.4;		
+}
+#tes1{
+width:205px;
+height:135px;			
+position:absolute;	
+background-color:#ffffff;	
+top:124px;
+left:49px;			
+opacity: 0.1;	
+border-radius:20px;	
+}
+#tes2{
+width:205px;
+height:280px;			
+position:absolute;	
+background-color:#ffffff;	
+top:290px;
+left:49px;					
+opacity: 0.1;	
+border-radius:20px;	
+}
+
+#tes3{
+width:205px;
+height:320px;			
+position:absolute;	
+background-color:#ffffff;	
+top:600px;
+left:49px;					
+opacity: 0.1;	
+border-radius:20px;	
+}
+
+#kstart{
+width:1165px;
+height:68px;			
+position:absolute;	
+	
+top:117px;
+left:350px;					
+}
+.k1{
+width:170px;
+height:68px;			
+float:left;	
+margin-left:20px;
+			
+}
+
+#kstart p{
+text-align:center;
+color:#2BF820;
+padding-top:13px;
+font-size:22px;	
+font-family:verdana;		
+}
+
+#kstart2 {
+width:1165px;
+height:35px;					
+					
+}
+#kstart2 p{
+text-align:center;
+color:#ffffff;
+padding-top:13px;
+font-size:20px;	
+font-family:Courier New;		
+}
+.k2{
+width:170px;
+height:30px;			
+float:left;	
+margin-left:20px;
+			
+}
+#kstart3{
+width:1165px;
+height:35px;										
+}
+#kstart3 p{
+text-align:center;
+color:#ffffff;
+padding-top:13px;
+font-size:18px;	
+font-family:Courier New;
+opacity:0.6;		
+}
+.k3{
+width:170px;
+height:30px;			
+float:left;	
+
+margin-left:20px;
+			
+}
+#k1pdv{
+color:#2BF820;
+font-size:17px;
+font-family:bold;		
+position:absolute;	
+top:170px;
+left:774px;	
+}
+#k1pdv2{
+color:#2BF820;
+font-size:17px;
+font-family:bold;		
+position:absolute;	
+top:170px;
+left:954px;	
+}
+#k1pdv3{
+color:#2BF820;
+font-size:17px;
+font-family:bold;		
+position:absolute;	
+top:170px;
+left:1154px;	
+}
+#k1pdv4{
+color:#2BF820;
+font-size:17px;
+font-family:bold;		
+position:absolute;	
+top:170px;
+left:1334px;	
+}
+#info{
+width:1275px;
+height:700px;			
+position:absolute;		
+top:221px;
+left:350px;	
+overflow:auto;
+}
+
+/* width */
+#info::-webkit-scrollbar {
+  width: 2px;
+ margin-left:30px; 
+display:none;
+}
+/* Track */
+#info::-webkit-scrollbar-track {
+   background: #F51E0E; 
+   
+}
+/* Handle */
+#info::-webkit-scrollbar-thumb {
+  background: #B1B1B1; 
+  opacity:0.4;
+}
+/* Handle on hover */
+#info::-webkit-scrollbar-thumb:hover {
+  background: #F51E0E; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

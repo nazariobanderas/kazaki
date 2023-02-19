@@ -1,0 +1,59 @@
+#myVideo{	
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  height:100%;
+  object-fit:cover;
+  pointer-events:none;
+}
+   *{
+        padding:0;
+        margin:0;
+		
+        }	
+.mainblock1{
+ position: relative;
+ width: 100%;
+ min-height: 100vh;
+  display: flex;
+  overflow:hidden;
+}
+#logos{
+width:200px;
+height:110px;			
+position:absolute;
+top:-10px;
+left:50px;		
+}
+
+.mainblock2{
+ position: absolute;
+ width: 1500px;
+ min-height: 820px;
+  display: flex;
+  overflow:hidden;
+  top:60px;
+left:337px;
+}
+.fotobeground{
+ position: absolute;
+ width: 100%;
+ min-height: 950px;
+  display: flex;
+  overflow:hidden;	
+}
+
+#blackblock1{
+ width: 1300px;
+ min-height: 800px;			
+position:absolute;	
+background-color:#000000;	
+  top:100px;
+left:337px;		
+opacity: 0.4;
+-moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;					
+}
+

@@ -1,0 +1,84 @@
+.mainnavigationright{
+height:460px;
+width: 280px;
+position:absolute;
+top:300px;	
+left:25px;
+overflow:auto;
+opacity:0.6;
+  -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out; 
+	
+}
+.mainnavigationright:hover{
+height:460px;
+width: 280px;
+position:absolute;
+top:300px;	
+left:25px;
+overflow:auto;
+opacity:0.99;
+}
+
+/* width */
+.mainnavigationright::-webkit-scrollbar {
+  width: 2px;
+ margin-left:30px; 
+display:none;
+}
+/* Track */
+.mainnavigationright::-webkit-scrollbar-track {
+   background: #F51E0E; 
+   
+}
+/* Handle */
+.mainnavigationright::-webkit-scrollbar-thumb {
+  background: #B1B1B1; 
+  opacity:0.4;
+}
+/* Handle on hover */
+.mainnavigationright::-webkit-scrollbar-thumb:hover {
+  background: #F51E0E; 
+}
+#fototabaklient{
+height:70px;
+width: 70px;	
+opacity:0.6;
+-moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+margin-left:37px; 
+margin-top:0px;
+
+}
+#fototabaklient:hover{
+height:70px;
+width: 70px;	
+opacity:0.99;
+-moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+margin-left:37px; 
+
+ cursor:pointer;
+}
+#rightblocktabameinklient1{
+height:140px;
+width: 110px;
+margin-left:0px;	
+
+float:left;		
+}
+
+
+#rightblocktabameinklient1 p{
+font-size:20px;	
+color:#fff;
+text-align:center;
+margin-top:0px;
+opacity:0.4;
+font-family:Courier New;
+margin-top:22px;
+margin-left:30px;
+}

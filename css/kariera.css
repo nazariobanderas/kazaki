@@ -1,0 +1,152 @@
+#begraundfoto{
+	width:1690px;
+	height: 1170px;			
+	position:absolute;
+	left:0px;
+	top:963px;
+			
+}
+
+#box22{
+width:1690px;
+height:952px;	
+position:absolute;
+top:1420px;
+left:0px;	
+
+}
+#myVideo22{
+width:1200px;
+height:752px;	
+float:right;
+margin-right:0px;
+}
+#bakavapanelnazva{
+width:530px;
+height:680px;	
+position:absolute;
+top:1458.5px;
+left:0px;		
+	
+	
+}
+
+
+
+#blochoknazvalevo1{
+width:370px;
+height:100px;	
+position:absolute;
+top:1458px;
+left:90px;		
+ 	-webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+   background: hsla(0, 0%, 100%, .25) border-box;
+
+		border: 0px solid transparent;
+border-radius:35px;	
+}
+#blochoknazvalevo2{
+width:370px;
+height:100px;	
+position:absolute;
+top:1580px;
+left:90px;		
+ 	-webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+   background: hsla(0, 0%, 100%, .25) border-box;
+	
+		border: 0px solid transparent;
+border-radius:35px;	
+}
+
+
+
+
+
+
+
+
+
+
+
+#blochok1{
+width:200px;
+height:200px;	
+position:absolute;
+top:1200px;
+left:490px;
+ 	-webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+   background: hsla(0, 0%, 100%, .25) border-box;
+	
+	border: 0px solid transparent;
+border-radius:35px;		
+}
+#blochok2{
+width:200px;
+height:200px;		
+position:absolute;
+top:1200px;
+left:740px;
+ 	-webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+   background: hsla(0, 0%, 100%, .25) border-box;
+	
+	border: 0px solid transparent;
+border-radius:35px;		
+}
+#blochok3{
+width:200px;
+height:200px;		
+position:absolute;
+top:1200px;
+left:990px;
+ 	-webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+   background: hsla(0, 0%, 100%, .25) border-box;
+
+	border: 0px solid transparent;
+border-radius:35px;		
+}
+#blochok4{
+width:200px;
+height:200px;		
+position:absolute;
+top:1200px;
+left:1240px;
+ 	-webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+   background: hsla(0, 0%, 100%, .25) border-box;
+	
+	border: 0px solid transparent;
+border-radius:35px;	
+}
+#blochok5{
+width:200px;
+height:200px;		
+position:absolute;
+top:1200px;
+left:1487px;
+ 	-webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+   background: hsla(0, 0%, 100%, .25) border-box;
+
+	border: 0px solid transparent;
+border-radius:35px;	
+}
+#kariera1{
+width:1600px;
+height:852px;	
+position:absolute;
+top:2320px;
+left:45px;	
+}
+#variant11{
+width:1690px;
+height:1442px;	
+position:absolute;
+top:960px;
+left:0px;		
+	
+}

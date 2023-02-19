@@ -1,0 +1,336 @@
+
+
+#variant2{
+position: fixed;
+width:300px;
+height:161px;	
+top:20px;
+left:75px;		
+}
+#variant3{
+position: fixed;
+width:20px;
+height:20px;	
+top:303px;
+left:328px;		
+}
+
+#myVideo{	
+overflow: hidden;
+ height:961px;
+  width: 1690px;
+  position:fixed;
+  padding:0;
+        margin:0;
+ object-fit:cover;
+  pointer-events:none;
+
+}
+   *{
+        padding:0;
+        margin:0;
+		}
+#blockinfo{
+position: absolute;		
+width:1238px;
+height:1280px;	
+left:450px;
+top:0px;	
+
+background: #000000;
+opacity:0.7; 		
+}		
+.mainblock1{
+overflow: hidden;
+height:961px;
+width: 1690px;
+position: fixed;	
+ margin:0; 
+}
+
+.mainblock2{
+overflow: hidden;
+height:700px;
+width: 380px;
+position: fixed;
+margin-top:200px;	
+margin-left:70px;
+-webkit-backdrop-filter: blur(15px);
+backdrop-filter: blur(15px);
+background: #ffffff; 
+opacity:0.5; 
+
+}
+.mainblock3{
+overflow: hidden;
+height:100px;
+width: 450px;
+position: fixed;
+margin-top:350px;	
+-webkit-backdrop-filter: blur(15px);
+backdrop-filter: blur(15px);
+background: hsla(0, 0%, 100%, .25) border-box;   
+border-bottom-right-radius:50px;  
+border-top-right-radius:50px;
+}
+.mainblock4{
+overflow: hidden;
+height:100px;
+width: 450px;
+position: fixed;
+margin-top:500px;	
+-webkit-backdrop-filter: blur(15px);
+backdrop-filter: blur(15px);
+background: hsla(0, 0%, 100%, .25) border-box;   
+border-bottom-right-radius:50px;  
+border-top-right-radius:50px;
+}
+
+#fraza1_1{
+color: #000000;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:90px;
+margin-left:60px;
+
+  -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+}
+#fraza1_1:hover{
+color: braun;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:90px;
+margin-left:40px;
+cursor:pointer;	
+
+}
+
+#fraza1_2{
+color: #8F8F8F;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:30px;
+margin-left:60px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;	
+}
+#fraza1_2:hover{
+color: #ffffff;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:30px;
+margin-left:40px;
+cursor:pointer;	
+}
+#fraza1_3{
+color: #8F8F8F;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:30px;
+margin-left:60px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;	
+}
+#fraza1_3:hover{
+color: #ffffff;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:30px;
+margin-left:40px;
+cursor:pointer;	
+}
+#fraza1_4{
+color: #8F8F8F;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:30px;
+margin-left:60px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;	
+}
+#fraza1_4:hover{
+color: #ffffff;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:30px;
+margin-left:40px;
+cursor:pointer;	
+}
+#fraza1_5{
+color: #8F8F8F;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:30px;
+margin-left:60px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;	
+}
+#fraza1_5:hover{
+color: #ffffff;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:30px;
+margin-left:40px;
+cursor:pointer;	
+}
+#fraza1_6{
+color: #8F8F8F;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:30px;
+margin-left:60px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;		
+}
+#fraza1_6:hover{
+color: #ffffff;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:30px;
+margin-left:40px;
+cursor:pointer;	
+}
+#fraza1_7{
+color: #8F8F8F;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:30px;
+margin-left:60px;	
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;	
+}
+#fraza1_7:hover{
+color: #ffffff;	
+font-size:36px;	
+font-family: "gotic";
+margin-top:30px;
+margin-left:40px;
+cursor:pointer;	
+}
+#paloskablek{
+ position: fixed;		
+width:1px;
+height:400px;	
+left:370px;
+top:300px;
+background: #000000;	
+}
+#paloskablek2{
+position: fixed;		
+width:1px;
+height:180px;	
+left:370px;
+top:650px;
+background: #8F8F8F;		
+}
+
+#blockinfo1{
+position: absolute;		
+width:500px;
+height:600px;	
+left:520px;
+top:300px;	
+border-radius:50px;
+ 	-webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+   background: #ffffff;
+   box-shadow: 0 0 0 1px hsla(0, 0%, 100%, .3) inset, 0 .5em 1em rgba(0, 0, 0, 0.2);
+  text-shadow: 0 1px 1px hsla(0, 0%, 100%, .3);	
+  overflow: hidden;
+}
+#blockinfo1:hover{
+position: absolute;		
+width:500px;
+height:600px;	
+left:520px;
+top:300px;	
+border-radius:50px;
+ 	-webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+   background: #ffffff;
+   box-shadow: 0 0 0 1px hsla(0, 0%, 100%, .3) inset, 0 .5em 1em rgba(0, 0, 0, 0.6);
+  text-shadow: 0 1px 1px hsla(0, 0%, 100%, .3);	
+  overflow: hidden;
+  cursor:pointer;
+}
+#blockinfo2{
+position: absolute;		
+width:500px;
+height:600px;	
+left:1090px;
+top:300px;	
+-webkit-backdrop-filter: blur(15px);
+backdrop-filter: blur(15px);
+background: #ffffff;
+box-shadow: 0 0 0 1px hsla(0, 0%, 100%, .3) inset, 0 .5em 1em rgba(0, 0, 0, 0.2);
+text-shadow: 0 1px 1px hsla(0, 0%, 100%, .3);
+border-radius:50px;
+overflow: hidden;	
+}
+
+#blockinfo3{
+position: absolute;		
+width:500px;
+height:600px;	
+left:1110px;
+top:1000px;		
+-webkit-backdrop-filter: blur(15px);
+backdrop-filter: blur(15px);
+background: #ffffff;
+box-shadow: 0 0 0 1px hsla(0, 0%, 100%, .3) inset, 0 .5em 1em rgba(0, 0, 0, 0.2);
+text-shadow: 0 1px 1px hsla(0, 0%, 100%, .3);
+border-radius:50px;
+overflow: hidden;	
+}
+
+#blockinfo4{
+position: absolute;		
+width:500px;
+height:600px;
+top:1000px;
+left:530px;	
+border-radius:50px;
+ 	-webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+   background: #ffffff;
+   box-shadow: 0 0 0 1px hsla(0, 0%, 100%, .3) inset, 0 .5em 1em rgba(0, 0, 0, 0.2);
+  text-shadow: 0 1px 1px hsla(0, 0%, 100%, .3);	
+  overflow: hidden;
+}
+#blockinfo1img{
+width:500px;
+height:300px;		
+}
+#blockinfotesth1{
+	margin-left:33px;
+	font-size:30px;	
+	margin-top:20px;
+	}
+#blockinfotesth2{
+	margin-left:33px;
+	font-size:20px;	
+	margin-top:20px;
+	color:#B4AFAD;
+}
+#blockinfotesth3{
+	margin-left:183px;
+	font-size:25px;	
+	margin-top:30px;
+	color:red;
+}
+	
+	#blockinfotest12345{
+	position: absolute;	
+	font-size:25px;	
+	left:1025px;
+top:1630px;	
+}
+

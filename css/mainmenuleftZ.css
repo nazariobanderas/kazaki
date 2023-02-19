@@ -1,0 +1,108 @@
+.mainnavigationleftz{
+height:310px;
+width: 270px;
+position:absolute;
+top:610px;	
+left:30px;
+overflow:auto;
+opacity:0.6;
+  -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+
+}
+.mainnavigationleftz:hover{
+height:310px;
+width: 270px;
+position:absolute;
+top:610px;	
+left:30px;
+overflow:auto;
+opacity:0.9;
+}
+
+/* width */
+.mainnavigationleftz::-webkit-scrollbar {
+  width: 2px;
+ margin-left:30px; 
+display:none;
+}
+/* Track */
+.mainnavigationleftz::-webkit-scrollbar-track {
+   background: #F51E0E; 
+   
+}
+/* Handle */
+.mainnavigationleftz::-webkit-scrollbar-thumb {
+  background: #B1B1B1; 
+  opacity:0.4;
+  
+}
+/* Handle on hover */
+.mainnavigationleftz::-webkit-scrollbar-thumb:hover {
+  background: #F51E0E; 
+  
+}
+#blockprofesiyaz{
+height:50px;
+width: 270px;	
+margin-left:0px;
+cursor:pointer;
+
+}
+.blockprofesiyatrikytnik{
+height:50px;
+width: 50px;
+float:right;
+display:none;
+cursor:pointer;	
+}
+#blockprofesiyaz:hover{
+height:50px;
+width: 270px;	
+ 
+margin-left:0px;
+}
+
+
+#blockprofesiyaZ:hover .blockprofesiyatrikytnik {
+display:block;
+}
+.strelki{
+height:25px;
+width: 30px;
+margin-top:10px;
+margin-left:15px;			
+}
+
+
+
+
+
+#blockprofesiyaz p{
+color: #B1B1B1;	
+font-size:21px;	
+font-family:Courier New;
+margin-top:0px;
+margin-left:30px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+float:left;
+margin-top:5px;
+}
+#blockprofesiyaz:hover p{
+color: #ffffff;	
+font-size:21px;	
+font-family:Courier New;
+margin-top:0px;
+margin-left:30px;
+ -moz-transition: all 0.5s ease-out;
+ -o-transition: all 0.5s ease-out;
+ -webkit-transition: all 0.5s ease-out;
+float:left;
+margin-top:5px;
+}
+
+
+
